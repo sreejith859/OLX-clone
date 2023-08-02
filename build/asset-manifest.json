@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OlX-clone-React/static/css/main.e2dfc755.css",
+    "main.js": "/OlX-clone-React/static/js/main.5b6d23a5.js",
+    "static/media/olx-logo.png": "/OlX-clone-React/static/media/olx-logo.b3f099a2fe7978c70944.png",
+    "index.html": "/OlX-clone-React/index.html",
+    "main.e2dfc755.css.map": "/OlX-clone-React/static/css/main.e2dfc755.css.map",
+    "main.5b6d23a5.js.map": "/OlX-clone-React/static/js/main.5b6d23a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2dfc755.css",
+    "static/js/main.5b6d23a5.js"
+  ]
+}
